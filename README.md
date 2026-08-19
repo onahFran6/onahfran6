@@ -1,6 +1,6 @@
 # Francis Onah
 
-Technology lead. Backends, platform, local-first tools.
+Tech lead on backends and cloud. I also build local-first tools in Rust and Go.
 
 [LinkedIn](https://www.linkedin.com/in/onahfran6) · [onahfran6@gmail.com](mailto:onahfran6@gmail.com)
 
