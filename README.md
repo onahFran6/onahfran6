@@ -1,41 +1,70 @@
-### Hi I'm Francis
+<div align="center">
 
-- 👯 I’m looking to collaborate on any frontend project and backend project
-- 🥑 Actively contributing to Open source projects
-- 📫 How to reach me: onahfran6@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun Fact: I play chess game often
+# Francis Onah
 
-## 🌐 Socials:
+**Technology lead** — backends, platform, and local-first systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/onahfran6)
+[LinkedIn](https://www.linkedin.com/in/onahfran6) · [onahfran6@gmail.com](mailto:onahfran6@gmail.com)
 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://mobile.twitter.com/Onahfran694) -->
+</div>
 
-### Languages and Tools:
+## About
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+I design and ship production backends — **TypeScript/NestJS**, **Terraform**, Docker, and AWS — with six years across product teams in Nigeria, the US, and Singapore.
 
-<br/>
-<br/>
+I build **local-first developer infrastructure** in Rust and Go: offline search and storage without sending private code to the cloud.
+
+## Now
+
+- **Technology lead (contract)** — NestJS microservices, AWS/Terraform, real-time voice messaging
+- **Shipping** [aperture](https://github.com/onahFran6/aperture) and [atlasDB](https://github.com/onahFran6/atlasDB)
+- **Deepening** Kubernetes (CKAD path) and hybrid retrieval (BM25 + HNSW)
+
+## Featured projects
+
+### [aperture](https://github.com/onahFran6/aperture) — offline semantic code search
+
+**Problem:** Search private repos by keyword and intent without uploading source to the cloud.
+
+**Built:** AST-aware chunks, BM25 + HNSW hybrid search, RRF fusion, and a Rust CLI/TUI — indexing and query stay on the machine.
+
+`Rust` · `tree-sitter` · `local-first` · `MIT`
 
 ---
 
-### Github Stats
+### [atlasDB](https://github.com/onahFran6/atlasDB) — local-first distributed key-value store
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onahfran6&show_icons=true&theme=radical)
+**Problem:** Offline apps need crash-safe persistence and explicit sync/conflict handling.
 
-<!-- ### Profile Visits -->
+**Built:** WAL + fsync, vector clocks, P2P eventual consistency, metrics, and integration tests.
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=w00dson-23&left_color=green&right_color=red) -->
+`Go` · `embedded` · `eventual consistency` · `MIT`
+
+---
+
+<details>
+<summary><b>More projects</b></summary>
+
+| Project | Note |
+|---------|------|
+| [code-editor-backend](https://github.com/onahFran6/code-editor-backend) | Collaborative editor backend · TypeScript |
+| [e-commerce-microservices](https://github.com/onahFran6/e-commerce-microservices) | Microservices reference architecture |
+| [onahrestaulServer](https://github.com/onahFran6/onahrestaulServer) | Infrastructure automation · Terraform |
+
+</details>
+
+## Tech
+
+**Daily:** TypeScript · NestJS · AWS · Docker · Kubernetes · Terraform · PostgreSQL · Redis
+
+**Systems:** Rust · Go · Prometheus · GitHub Actions · Linux
+
+---
+
+<div align="center">
+
+[onahfran6@gmail.com](mailto:onahfran6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onahfran6)
+
+Chess when I’m not shipping.
+
+</div>
