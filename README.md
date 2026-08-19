@@ -1,70 +1,54 @@
-<div align="center">
-
 # Francis Onah
 
-**Technology lead** — backends, platform, and local-first systems
+Technology lead. Backends, platform, local-first tools.
 
 [LinkedIn](https://www.linkedin.com/in/onahfran6) · [onahfran6@gmail.com](mailto:onahfran6@gmail.com)
 
-</div>
-
 ## About
 
-I design and ship production backends — **TypeScript/NestJS**, **Terraform**, Docker, and AWS — with six years across product teams in Nigeria, the US, and Singapore.
+For the last six years I have been building backends for product teams in Nigeria, the US, and Singapore. The day job is TypeScript and NestJS, plus Terraform, Docker, and AWS.
 
-I build **local-first developer infrastructure** in Rust and Go: offline search and storage without sending private code to the cloud.
+I also write local-first tools in Rust and Go. Search and storage that run on your machine, so private code does not have to leave it.
 
 ## Now
 
-- **Technology lead (contract)** — NestJS microservices, AWS/Terraform, real-time voice messaging
-- **Shipping** [aperture](https://github.com/onahFran6/aperture) and [atlasDB](https://github.com/onahFran6/atlasDB)
-- **Deepening** Kubernetes (CKAD path) and hybrid retrieval (BM25 + HNSW)
+- Contract tech lead on a voice messaging product: NestJS services on AWS, infra in Terraform
+- [aperture](https://github.com/onahFran6/aperture) and [atlasDB](https://github.com/onahFran6/atlasDB) in public
+- Studying Kubernetes (CKAD) and still tweaking hybrid search (BM25 + HNSW)
 
-## Featured projects
+## Projects
 
-### [aperture](https://github.com/onahFran6/aperture) — offline semantic code search
+### [aperture](https://github.com/onahFran6/aperture)
 
-**Problem:** Search private repos by keyword and intent without uploading source to the cloud.
+Offline code search. You can look through a private repo by keyword or by meaning, without uploading the tree anywhere.
 
-**Built:** AST-aware chunks, BM25 + HNSW hybrid search, RRF fusion, and a Rust CLI/TUI — indexing and query stay on the machine.
+It walks the repo, chunks with tree-sitter, indexes with BM25 and HNSW, then fuses the rankings (RRF). CLI and TUI, all in Rust.
 
-`Rust` · `tree-sitter` · `local-first` · `MIT`
+`Rust` · `tree-sitter` · `MIT`
 
----
+### [atlasDB](https://github.com/onahFran6/atlasDB)
 
-### [atlasDB](https://github.com/onahFran6/atlasDB) — local-first distributed key-value store
+A small embedded key-value store for apps that need to keep working offline.
 
-**Problem:** Offline apps need crash-safe persistence and explicit sync/conflict handling.
+WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when you come back online. Go, with tests.
 
-**Built:** WAL + fsync, vector clocks, P2P eventual consistency, metrics, and integration tests.
-
-`Go` · `embedded` · `eventual consistency` · `MIT`
-
----
+`Go` · `MIT`
 
 <details>
-<summary><b>More projects</b></summary>
+<summary>Other repos</summary>
 
 | Project | Note |
 |---------|------|
-| [code-editor-backend](https://github.com/onahFran6/code-editor-backend) | Collaborative editor backend · TypeScript |
-| [e-commerce-microservices](https://github.com/onahFran6/e-commerce-microservices) | Microservices reference architecture |
-| [onahrestaulServer](https://github.com/onahFran6/onahrestaulServer) | Infrastructure automation · Terraform |
+| [code-editor-backend](https://github.com/onahFran6/code-editor-backend) | Collaborative editor backend, TypeScript |
+| [e-commerce-microservices](https://github.com/onahFran6/e-commerce-microservices) | Microservices sketch |
+| [onahrestaulServer](https://github.com/onahFran6/onahrestaulServer) | Terraform for an API |
 
 </details>
 
-## Tech
+## Stack
 
-**Daily:** TypeScript · NestJS · AWS · Docker · Kubernetes · Terraform · PostgreSQL · Redis
+Work: TypeScript, NestJS, AWS, Docker, Kubernetes, Terraform, PostgreSQL, Redis
 
-**Systems:** Rust · Go · Prometheus · GitHub Actions · Linux
-
----
-
-<div align="center">
+Also: Rust, Go, Prometheus, GitHub Actions, Linux
 
 [onahfran6@gmail.com](mailto:onahfran6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onahfran6)
-
-Chess when I’m not shipping.
-
-</div>
