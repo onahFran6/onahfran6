@@ -83,7 +83,13 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,go,rust,aws,terraform,docker,kubernetes,postgres,redis,linux" alt="TypeScript, Node.js, NestJS, Go, Rust, AWS, Terraform, Docker, Kubernetes, Postgres, Redis, Linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,go,rust&perline=7" alt="TypeScript, JavaScript, Python, Node.js, NestJS, Go, Rust" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,prometheus,grafana,githubactions,jenkins,ansible&perline=8" alt="AWS, GCP, Azure, Terraform, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, Jenkins, Ansible" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,linux,nginx,graphql&perline=7" alt="Postgres, MySQL, MongoDB, Redis, Linux, Nginx, GraphQL" />
 </p>
 
 ## Stats
