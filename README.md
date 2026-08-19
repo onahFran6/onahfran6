@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="hello-banner.png" alt="Hello World, I'm Francis" width="680" />
+  <img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/hello-banner.png" alt="Hello World, I'm Francis" width="680" />
 </p>
 
 <p align="center">
@@ -40,8 +40,8 @@ On my own time I write local-first tools in Rust and Go. Search and storage that
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/onahFran6/aperture"><img src="cards/aperture.svg" alt="aperture: offline code search" /></a>
-  <a href="https://github.com/onahFran6/atlasDB"><img src="cards/atlasdb.svg" alt="atlasDB: local-first key-value store" /></a>
+  <a href="https://github.com/onahFran6/aperture"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/aperture.svg" alt="aperture: offline code search" /></a>
+  <a href="https://github.com/onahFran6/atlasDB"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/atlasdb.svg" alt="atlasDB: local-first key-value store" /></a>
 </p>
 
 ### [aperture](https://github.com/onahFran6/aperture)
@@ -76,18 +76,18 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onahFran6&show_icons=true&theme=transparent&hide_border=true&icon_color=2bbc8a&title_color=2bbc8a&text_color=c9d1d9" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onahFran6&layout=compact&theme=transparent&hide_border=true&title_color=2bbc8a&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onahFran6&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;icon_color=2bbc8a&amp;title_color=2bbc8a&amp;text_color=c9d1d9" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onahFran6&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=2bbc8a&amp;text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=onahFran6&theme=transparent&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=onahFran6&amp;theme=transparent&amp;hide_border=true&amp;ring=2bbc8a&amp;fire=2bbc8a&amp;currStreakLabel=2bbc8a" alt="GitHub streak" />
 </p>
 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onahFran6&bg_color=00000000&color=2bbc8a&line=2bbc8a&point=e6edf3&area=true&hide_border=true&custom_title=Contributions" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/2bbc8a/onahFran6" alt="Contribution chart" />
 </p>
 
 ### Recent
@@ -99,9 +99,9 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake.svg" />
   </picture>
 </p>
 
