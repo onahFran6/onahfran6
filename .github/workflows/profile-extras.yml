@@ -9,6 +9,24 @@ permissions:
   contents: write
 
 jobs:
+  stats:
+    name: Stats card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python scripts/generate-stats.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update GitHub stats card
+          file_pattern: dist/github-stats.png
+
   snake:
     name: Contribution snake
     runs-on: ubuntu-latest
