@@ -40,8 +40,8 @@ On my own time I write local-first tools in Rust and Go. Search and storage that
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/onahFran6/aperture"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/aperture.svg" alt="aperture: offline code search" /></a>
-  <a href="https://github.com/onahFran6/atlasDB"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/atlasdb.svg" alt="atlasDB: local-first key-value store" /></a>
+  <a href="https://github.com/onahFran6/aperture"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/aperture.png" alt="aperture: offline code search" width="420" /></a>
+  <a href="https://github.com/onahFran6/atlasDB"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/atlasdb.png" alt="atlasDB: local-first key-value store" width="420" /></a>
 </p>
 
 ### [aperture](https://github.com/onahFran6/aperture)
