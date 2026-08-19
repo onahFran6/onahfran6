@@ -1,4 +1,6 @@
-# Francis Onah
+<p align="center">
+  <img src="hello-banner.png" alt="Hello World, I'm Francis" width="680" />
+</p>
 
 Backend and platform engineer. I also write local-first tools in Rust and Go.
 
