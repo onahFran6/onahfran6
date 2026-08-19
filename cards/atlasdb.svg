@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="168" viewBox="0 0 420 168" role="img" aria-labelledby="t d">
+  <title id="t">atlasDB</title>
+  <desc id="d">Local-first key-value store</desc>
+  <rect width="420" height="168" rx="16" fill="#161b22" stroke="#2bbc8a" stroke-width="2"/>
+  <ellipse cx="52" cy="58" rx="26" ry="10" fill="none" stroke="#2bbc8a" stroke-width="3"/>
+  <path d="M26 58 v52 c0 8 12 14 26 14 s26-6 26-14 V58" fill="none" stroke="#2bbc8a" stroke-width="3"/>
+  <ellipse cx="52" cy="84" rx="26" ry="10" fill="none" stroke="#2bbc8a" stroke-width="2" opacity="0.7"/>
+  <text x="118" y="72" fill="#e6edf3" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="22" font-weight="700">atlasDB</text>
+  <text x="118" y="100" fill="#8b949e" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="14">Embedded KV. WAL, sync, vector clocks.</text>
+  <text x="118" y="124" fill="#2bbc8a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Go · local-first · MIT</text>
+</svg>
