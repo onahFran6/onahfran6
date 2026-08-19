@@ -2,9 +2,14 @@
   <img src="hello-banner.png" alt="Hello World, I'm Francis" width="680" />
 </p>
 
-Backend and platform engineer. I also write local-first tools in Rust and Go.
+<p align="center">
+  Backend and platform engineer. I also write local-first tools in Rust and Go.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/onahfran6) · [onahfran6@gmail.com](mailto:onahfran6@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/onahfran6"><img src="https://img.shields.io/badge/LinkedIn-onahfran6-2bbc8a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:onahfran6@gmail.com"><img src="https://img.shields.io/badge/Email-onahfran6@gmail.com-2bbc8a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ## About
 
@@ -19,6 +24,14 @@ On my own time I write local-first tools in Rust and Go. Search and storage that
 - Contract tech lead on a voice messaging product: NestJS services on AWS, infra in Terraform
 - [aperture](https://github.com/onahFran6/aperture) and [atlasDB](https://github.com/onahFran6/atlasDB) in public
 - Studying Kubernetes (CKAD) and still tweaking hybrid search (BM25 + HNSW)
+
+## Work
+
+| Company | What I did |
+|---------|------------|
+| [Stroll](https://www.linkedin.com/company/stroll-dating) | Tech lead. Voice messaging, NestJS microservices, AWS, Terraform. Singapore, remote from Nigeria. |
+| GLAS LLC | Full stack. Next.js, TypeScript, Go, AWS. United States. |
+| MagicalDB, HealthStack, and earlier | Backend and full stack in Nigeria. Node, payments, hospital software, AWS. |
 
 ## Projects
 
@@ -49,12 +62,23 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 
 </details>
 
-## What I work with
+## Tools
 
-- Backend: TypeScript, NestJS, Node.js, Go
-- Cloud: AWS, Terraform, Docker, Kubernetes, GitHub Actions
-- Data and ops: PostgreSQL, Redis, Prometheus, Grafana
-- Payments: Stripe, Paystack, Flutterwave
-- Also: Rust, Python, Linux
+<p>
+<img src="https://img.shields.io/badge/TypeScript-2bbc8a?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/NestJS-2bbc8a?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Node.js-2bbc8a?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Go-2bbc8a?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-2bbc8a?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/AWS-2bbc8a?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Terraform-2bbc8a?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Docker-2bbc8a?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-2bbc8a?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/PostgreSQL-2bbc8a?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-2bbc8a?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Prometheus-2bbc8a?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+</p>
+
+I play a lot of chess.
 
 [onahfran6@gmail.com](mailto:onahfran6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onahfran6)
