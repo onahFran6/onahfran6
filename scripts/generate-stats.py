@@ -24,7 +24,12 @@ query ($login: String!) {
       totalCount
       nodes {
         stargazerCount
-        primaryLanguage { name }
+        languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+          edges {
+            size
+            node { name }
+          }
+        }
       }
     }
     contributionsCollection {
@@ -35,6 +40,19 @@ query ($login: String!) {
   }
 }
 """
+
+SKIP_LANGS = {
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Less",
+    "Markdown",
+    "Handlebars",
+    "Dockerfile",
+    "Makefile",
+    "Shell",
+    "Jupyter Notebook",
+}
 
 
 def font(size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
@@ -82,12 +100,16 @@ def fetch() -> dict:
 def draw_card(user: dict) -> None:
     repos = user["repositories"]["nodes"]
     stars = sum(n.get("stargazerCount") or 0 for n in repos)
-    langs = Counter(
-        n["primaryLanguage"]["name"]
-        for n in repos
-        if n.get("primaryLanguage") and n["primaryLanguage"].get("name")
-    )
-    top = langs.most_common(5)
+    langs: Counter[str] = Counter()
+    for n in repos:
+        for edge in (n.get("languages") or {}).get("edges") or []:
+            name = (edge.get("node") or {}).get("name")
+            size = edge.get("size") or 0
+            if name and name not in SKIP_LANGS and size > 0:
+                if name == "HCL":
+                    name = "Terraform"
+                langs[name] += size
+    top = langs.most_common(6)
     total_lang = sum(c for _, c in top) or 1
 
     stats = [
@@ -99,7 +121,7 @@ def draw_card(user: dict) -> None:
         ("Contributions this year", str(user["contributionsCollection"]["contributionCalendar"]["totalContributions"])),
     ]
 
-    w, h = 920, 380
+    w, h = 920, 430
     img = Image.new("RGB", (w, h), "#0d1117")
     d = ImageDraw.Draw(img)
     d.rounded_rectangle((4, 4, w - 5, h - 5), radius=28, fill="#161b22", outline="#2bbc8a", width=3)
@@ -114,8 +136,8 @@ def draw_card(user: dict) -> None:
         y += 42
 
     d.text((520, 88), "Top languages", fill="#2bbc8a", font=title_f)
-    bar_x, bar_w, by = 520, 360, 150
-    palette = ["#2bbc8a", "#58a6ff", "#d2a8ff", "#f0883e", "#79c0ff"]
+    bar_x, bar_w, by = 520, 360, 140
+    palette = ["#2bbc8a", "#58a6ff", "#d2a8ff", "#f0883e", "#79c0ff", "#f85149"]
     for i, (name, count) in enumerate(top):
         frac = count / total_lang
         d.text((bar_x, by), name, fill="#c9d1d9", font=small_f)
