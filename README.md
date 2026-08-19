@@ -1,12 +1,12 @@
 # Francis Onah
 
-Tech lead on backends and cloud. I also build local-first tools in Rust and Go.
+Backend and platform engineer. I also write local-first tools in Rust and Go.
 
 [LinkedIn](https://www.linkedin.com/in/onahfran6) · [onahfran6@gmail.com](mailto:onahfran6@gmail.com)
 
 ## About
 
-Six years as a software engineer. The titles have been tech lead, backend, full stack, and DevOps, depending on the team. The work is the same: APIs and cloud infra that stay up, cost less to run, and do not take forever to ship.
+Depending on the team I have been tech lead, backend, full stack, or DevOps. The work is the same: APIs and cloud infra that stay up, cost less to run, and do not take forever to ship.
 
 Most days that is TypeScript and NestJS, sometimes Go. AWS and Terraform for the platform, Postgres and Redis for data, Prometheus and Grafana when something is slow. I have also done payment integrations (Stripe, Paystack, Flutterwave).
 
