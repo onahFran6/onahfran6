@@ -6,9 +6,11 @@ Technology lead. Backends, platform, local-first tools.
 
 ## About
 
-For the last six years I have been building backends for product teams in Nigeria, the US, and Singapore. The day job is TypeScript and NestJS, plus Terraform, Docker, and AWS.
+Six years as a software engineer. The titles have been tech lead, backend, full stack, and DevOps, depending on the team. The work is the same: APIs and cloud infra that stay up, cost less to run, and do not take forever to ship.
 
-I also write local-first tools in Rust and Go. Search and storage that run on your machine, so private code does not have to leave it.
+Most days that is TypeScript and NestJS, sometimes Go. AWS and Terraform for the platform, Postgres and Redis for data, Prometheus and Grafana when something is slow. I have also done payment integrations (Stripe, Paystack, Flutterwave).
+
+On my own time I write local-first tools in Rust and Go. Search and storage that run on your machine, so private code does not have to leave it.
 
 ## Now
 
@@ -45,10 +47,12 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 
 </details>
 
-## Stack
+## What I work with
 
-Work: TypeScript, NestJS, AWS, Docker, Kubernetes, Terraform, PostgreSQL, Redis
-
-Also: Rust, Go, Prometheus, GitHub Actions, Linux
+- Backend: TypeScript, NestJS, Node.js, Go
+- Cloud: AWS, Terraform, Docker, Kubernetes, GitHub Actions
+- Data and ops: PostgreSQL, Redis, Prometheus, Grafana
+- Payments: Stripe, Paystack, Flutterwave
+- Also: Rust, Python, Linux
 
 [onahfran6@gmail.com](mailto:onahfran6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onahfran6)
