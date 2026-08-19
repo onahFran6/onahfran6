@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20stack%2C%20backend%20heavy&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20engineer&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
 </p>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Full-stack+engineer%2C+backend+heavy;DevOps+and+infrastructure;NestJS%2C+AWS%2C+Terraform" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Software+engineer;Tech+lead%2C+full+stack%2C+DevOps;NestJS%2C+AWS%2C+Terraform" alt="Typing tagline" />
 </p>
 
 <p align="center">
-  <strong>Full-stack engineer (backend heavy) · DevOps · infrastructure</strong><br />
+  <strong>Software engineer · tech lead · DevOps</strong><br />
   Nigeria
 </p>
 
@@ -28,9 +28,11 @@
 
 ## About
 
-I am a full-stack engineer, backend heavy. I have also worked as a DevOps engineer, so I am as comfortable in AWS and Terraform as I am in the API layer.
+Six years as a software engineer. The titles have been tech lead, full stack, backend, and DevOps. The work is the services, the React or Next.js in front of them when the team needs it, and the AWS and Terraform that keep them up.
 
-Most days that is TypeScript and NestJS, sometimes Go. Postgres and Redis for data, Prometheus and Grafana when something is slow. I have shipped payment integrations (Stripe, Paystack, Flutterwave) and the cloud infra those services sit on.
+Right now I am contract tech lead at Stroll, a voice messaging product. NestJS microservices, matching, WebSockets, CI on GitHub Actions. Infra in Terraform on AWS (ECS, Lambda, DynamoDB). Prometheus and Grafana when something is slow.
+
+Before that: full stack at [GLAS](https://www.glashomes.com/) with Next.js, TypeScript, Go, and GraphQL. Payment APIs at MagicalDB (Paystack, Flutterwave, Stripe, and the rest). Hospital software at [HealthStack](https://healthstack.africa/), including POS printing for tests and consults. An LMS on NestJS and EKS at Parakletus. Paystack on the [PaxAlpha](https://www.alphakolect.com) site.
 
 On my own time I write local-first tools in Rust and Go. Search and storage that run on your machine, so private code does not have to leave it.
 
@@ -44,9 +46,9 @@ On my own time I write local-first tools in Rust and Go. Search and storage that
 
 | Company | What I did |
 |---------|------------|
-| [Stroll](https://www.linkedin.com/company/stroll-dating) | Tech lead. Voice messaging, NestJS microservices, AWS, Terraform. Singapore, remote from Nigeria. |
-| GLAS LLC | Full stack. Next.js, TypeScript, Go, AWS. United States. |
-| MagicalDB, HealthStack, and earlier | Backend and full stack in Nigeria. Node, payments, hospital software, AWS. |
+| [Stroll](https://www.linkedin.com/company/stroll-dating) | Tech lead. Voice messaging, NestJS, Terraform, AWS. Singapore, remote from Nigeria. |
+| [GLAS](https://www.glashomes.com/) | Full stack. Next.js, TypeScript, Go, GraphQL, AWS. United States. |
+| MagicalDB, [HealthStack](https://healthstack.africa/), Parakletus, [PaxAlpha](https://www.alphakolect.com) | Payments, hospital software, LMS on EKS. Nigeria. |
 
 ## Projects
 
