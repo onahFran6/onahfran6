@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Backend%20and%20infrastructure&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20stack%2C%20backend%20heavy&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
 </p>
 
 <p align="center">
@@ -7,7 +7,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Backend+and+infrastructure;APIs%2C+cloud%2C+and+integrations;NestJS%2C+AWS%2C+Terraform" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Full-stack+engineer%2C+backend+heavy;DevOps+and+infrastructure;NestJS%2C+AWS%2C+Terraform" alt="Typing tagline" />
+</p>
+
+<p align="center">
+  <strong>Full-stack engineer (backend heavy) · DevOps · infrastructure</strong><br />
+  Nigeria
+</p>
+
+<p align="center">
+  Get in touch at <a href="mailto:onahfran6@gmail.com">onahfran6@gmail.com</a>
+  ·
+  <a href="https://www.linkedin.com/in/onahfran6">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -17,9 +28,9 @@
 
 ## About
 
-Depending on the team I have been tech lead, backend, full stack, or DevOps. The work is the same: APIs and cloud infra that stay up, cost less to run, and do not take forever to ship.
+I am a full-stack engineer, backend heavy. I have also worked as a DevOps engineer, so I am as comfortable in AWS and Terraform as I am in the API layer.
 
-Most days that is TypeScript and NestJS, sometimes Go. AWS and Terraform for the platform, Postgres and Redis for data, Prometheus and Grafana when something is slow. I have also done payment integrations (Stripe, Paystack, Flutterwave).
+Most days that is TypeScript and NestJS, sometimes Go. Postgres and Redis for data, Prometheus and Grafana when something is slow. I have shipped payment integrations (Stripe, Paystack, Flutterwave) and the cloud infra those services sit on.
 
 On my own time I write local-first tools in Rust and Go. Search and storage that run on your machine, so private code does not have to leave it.
 
