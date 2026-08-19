@@ -1,9 +1,13 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2bbc8a&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=0d1117&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Backend%20and%20platform&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
+</p>
+
+<p align="center">
   <img src="hello-banner.png" alt="Hello World, I'm Francis" width="680" />
 </p>
 
 <p align="center">
-  Backend and platform engineer. I also write local-first tools in Rust and Go.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Backend+and+platform+engineer;NestJS%2C+AWS%2C+Terraform;Local-first+tools+in+Rust+and+Go" alt="Typing tagline" />
 </p>
 
 <p align="center">
@@ -35,21 +39,22 @@ On my own time I write local-first tools in Rust and Go. Search and storage that
 
 ## Projects
 
+<p align="center">
+  <a href="https://github.com/onahFran6/aperture"><img src="cards/aperture.svg" alt="aperture: offline code search" /></a>
+  <a href="https://github.com/onahFran6/atlasDB"><img src="cards/atlasdb.svg" alt="atlasDB: local-first key-value store" /></a>
+</p>
+
 ### [aperture](https://github.com/onahFran6/aperture)
 
 Offline code search. You can look through a private repo by keyword or by meaning, without uploading the tree anywhere.
 
 It walks the repo, chunks with tree-sitter, indexes with BM25 and HNSW, then fuses the rankings (RRF). CLI and TUI, all in Rust.
 
-`Rust` · `tree-sitter` · `MIT`
-
 ### [atlasDB](https://github.com/onahFran6/atlasDB)
 
 A small embedded key-value store for apps that need to keep working offline.
 
 WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when you come back online. Go, with tests.
-
-`Go` · `MIT`
 
 <details>
 <summary>Other repos</summary>
@@ -64,21 +69,44 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 
 ## Tools
 
-<p>
-<img src="https://img.shields.io/badge/TypeScript-2bbc8a?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/NestJS-2bbc8a?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Node.js-2bbc8a?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Go-2bbc8a?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Rust-2bbc8a?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/AWS-2bbc8a?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Terraform-2bbc8a?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Docker-2bbc8a?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-2bbc8a?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/PostgreSQL-2bbc8a?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-2bbc8a?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Prometheus-2bbc8a?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,go,rust,aws,terraform,docker,kubernetes,postgres,redis,linux" alt="TypeScript, Node.js, NestJS, Go, Rust, AWS, Terraform, Docker, Kubernetes, Postgres, Redis, Linux" />
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onahFran6&show_icons=true&theme=transparent&hide_border=true&icon_color=2bbc8a&title_color=2bbc8a&text_color=c9d1d9" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onahFran6&layout=compact&theme=transparent&hide_border=true&title_color=2bbc8a&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=onahFran6&theme=transparent&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a" alt="GitHub streak" />
+</p>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onahFran6&bg_color=00000000&color=2bbc8a&line=2bbc8a&point=e6edf3&area=true&hide_border=true&custom_title=Contributions" alt="Contribution graph" />
+</p>
+
+### Recent
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+  </picture>
 </p>
 
 I play a lot of chess.
 
-[onahfran6@gmail.com](mailto:onahfran6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/onahfran6)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2bbc8a&amp;height=120&amp;section=footer" alt="" />
+</p>
