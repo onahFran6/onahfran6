@@ -76,24 +76,8 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onahFran6&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;icon_color=2bbc8a&amp;title_color=2bbc8a&amp;text_color=c9d1d9" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onahFran6&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=2bbc8a&amp;text_color=c9d1d9" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-stats.png" alt="GitHub stats" width="680" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=onahFran6&amp;theme=transparent&amp;hide_border=true&amp;ring=2bbc8a&amp;fire=2bbc8a&amp;currStreakLabel=2bbc8a" alt="GitHub streak" />
-</p>
-
-## Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2bbc8a/onahFran6" alt="Contribution chart" />
-</p>
-
-### Recent
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Contributions
 
@@ -104,6 +88,11 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake.svg" />
   </picture>
 </p>
+
+### Recent
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 I play a lot of chess.
 
