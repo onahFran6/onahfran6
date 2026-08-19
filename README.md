@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2bbc8a&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=0d1117&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Backend%20and%20platform&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Backend%20and%20infrastructure&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Backend+and+platform+engineer;NestJS%2C+AWS%2C+Terraform;Local-first+tools+in+Rust+and+Go" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Backend+and+infrastructure;APIs%2C+cloud%2C+and+integrations;NestJS%2C+AWS%2C+Terraform" alt="Typing tagline" />
 </p>
 
 <p align="center">
