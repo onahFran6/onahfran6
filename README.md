@@ -111,6 +111,7 @@ WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when y
 ### Recent
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.1.0](https://github.com/onahFran6/clusterdrill/releases/tag/v0.1.0) in [onahFran6/clusterdrill](https://github.com/onahFran6/clusterdrill)
 <!--END_SECTION:activity-->
 
 I play a lot of chess.
