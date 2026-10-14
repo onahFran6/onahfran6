@@ -1,54 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=140&amp;section=header&amp;text=Francis%20Onah&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20engineer&amp;descAlignY=58&amp;descSize=18" alt="Francis Onah" />
+  <img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/header.png" alt="Francis Onah: senior software engineer, tech lead, backend and DevOps" width="840" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/hello-banner.png" alt="Hello World, I'm Francis" width="680" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=2BBC8A&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Software+engineer;Tech+lead%2C+full+stack%2C+DevOps;NestJS%2C+AWS%2C+Terraform" alt="Typing tagline" />
-</p>
-
-<p align="center">
-  <strong>Software engineer · tech lead · DevOps</strong><br />
-  Nigeria
-</p>
-
-<p align="center">
-  Get in touch at <a href="mailto:onahfran6@gmail.com">onahfran6@gmail.com</a>
-  ·
-  <a href="https://www.linkedin.com/in/onahfran6">LinkedIn</a>
+  Ibadan, Nigeria · remote
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/onahfran6"><img src="https://img.shields.io/badge/LinkedIn-onahfran6-2bbc8a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@onahfran6"><img src="https://img.shields.io/badge/Medium-@onahfran6-2bbc8a?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:onahfran6@gmail.com"><img src="https://img.shields.io/badge/Email-onahfran6@gmail.com-2bbc8a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@onahfran6/how-i-prepared-for-the-ckad-and-scored-93-f0c0cfde77ab"><img src="https://img.shields.io/badge/CKAD-certified-2bbc8a?style=flat-square&logo=kubernetes&logoColor=whte" alt="Certified Kubernetes Application Developer" /></a>
 </p>
 
 ## About
 
-Six years as a software engineer. The titles have been tech lead, full stack, backend, and DevOps. The work is the services, the React or Next.js in front of them when the team needs it, and the AWS and Terraform that keep them up.
+I'm a senior software engineer and tech lead with six years of building production backends: the services, the infrastructure under them and the pipelines that ship them, with React or Next.js on the front when a team needs it. I've done that in fintech, health tech, edtech and consumer apps, for teams in Nigeria, Singapore and the US. My full work history is on [LinkedIn](https://www.linkedin.com/in/onahfran6).
 
-Right now I am contract tech lead at Stroll, a voice messaging product. NestJS microservices, matching, WebSockets, CI on GitHub Actions. Infra in Terraform on AWS (ECS, Lambda, DynamoDB). Prometheus and Grafana when something is slow.
+As contract tech lead at [Stroll](https://www.linkedin.com/company/stroll-dating), a voice messaging and matching app, I designed the NestJS microservices on AWS (ECS, Lambda, DynamoDB), provisioned everything with Terraform, and set up CI/CD with GitHub Actions and monitoring with Prometheus and Grafana. That work cut response times by up to 30%, infrastructure cost by 25% and deployment time by about 40%.
 
-Before that: full stack at [GLAS](https://www.glashomes.com/) with Next.js, TypeScript, Go, and GraphQL. Payment APIs at MagicalDB (Paystack, Flutterwave, Stripe, and the rest). Hospital software at [HealthStack](https://healthstack.africa/), including POS printing for tests and consults. An LMS on NestJS and EKS at Parakletus. Paystack on the [PaxAlpha](https://www.alphakolect.com) site.
-
-On my own time I write local-first tools in Rust and Go. Search and storage that run on your machine, so private code does not have to leave it.
+I'm a Certified Kubernetes Application Developer (CKAD) and a mentor at Tech4Dev. On my own time I build developer tools: hands-on Kubernetes practice, and local-first search and storage in Rust and Go. Away from the keyboard, I play a lot of chess.
 
 ## Now
 
-- Contract tech lead on a voice messaging product: NestJS services on AWS, infra in Terraform
-- [aperture](https://github.com/onahFran6/aperture) and [atlasDB](https://github.com/onahFran6/atlasDB) in public
-- Studying Kubernetes (CKAD) and still tweaking hybrid search (BM25 + HNSW)
-
-## Work
-
-| Company | What I did |
-|---------|------------|
-| [Stroll](https://www.linkedin.com/company/stroll-dating) | Tech lead. Voice messaging, NestJS, Terraform, AWS. Singapore, remote from Nigeria. |
-| [GLAS](https://www.glashomes.com/) | Full stack. Next.js, TypeScript, Go, GraphQL, AWS. United States. |
-| MagicalDB, [HealthStack](https://healthstack.africa/), Parakletus, [PaxAlpha](https://www.alphakolect.com) | Payments, hospital software, LMS on EKS. Nigeria. |
+- Building [ClusterDrill](https://github.com/onahFran6/clusterdrill) and [ClusterDrill Lab](https://github.com/onahFran6/clusterdrill-lab), an open-source CKAD practice platform and its AWS lab
+- Mentoring early-career software engineers at Tech4Dev
+- Tuning [aperture](https://github.com/onahFran6/aperture)'s hybrid search (BM25 + HNSW)
 
 ## Projects
 
@@ -86,53 +63,22 @@ A small embedded key-value store for apps that need to keep working offline.
 
 WAL with fsync so a crash does not eat writes. Vector clocks and P2P sync when you come back online. Go, with tests.
 
-<details>
-<summary>Other repos</summary>
+## Writing
 
-| Project | Note |
-|---------|------|
-| [code-editor-backend](https://github.com/onahFran6/code-editor-backend) | Collaborative editor backend, TypeScript |
-| [e-commerce-microservices](https://github.com/onahFran6/e-commerce-microservices) | Microservices sketch |
-| [onahrestaulServer](https://github.com/onahFran6/onahrestaulServer) | Terraform for an API |
+- [How I Prepared for the CKAD and Scored 93%](https://medium.com/@onahfran6/how-i-prepared-for-the-ckad-and-scored-93-f0c0cfde77ab)
+- [Building ClusterDrill: A CKAD Practice Platform Graded by the Cluster Itself](https://medium.com/@onahfran6/building-clusterdrill-a-ckad-practice-platform-graded-by-the-cluster-itself-45afeb175af5)
+- [Building ClusterDrill Lab: A Disposable, Exam-Realistic Kubernetes Lab on AWS](https://medium.com/@onahfran6/building-clusterdrill-lab-a-disposable-exam-realistic-kubernetes-lab-on-aws-c52edf96e5f5)
 
-</details>
+More on [Medium](https://medium.com/@onahfran6).
 
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,go,rust&perline=7" alt="TypeScript, JavaScript, Python, Node.js, NestJS, Go, Rust" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,go,rust,py,fastapi,graphql&perline=11" alt="TypeScript, JavaScript, Node.js, NestJS, React, Next.js, Go, Rust, Python, FastAPI, GraphQL" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,prometheus,grafana,githubactions,jenkins,ansible&perline=8" alt="AWS, GCP, Azure, Terraform, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, Jenkins, Ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,prometheus,grafana,nginx,linux&perline=9" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions, Prometheus, Grafana, Nginx, Linux" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,linux,nginx,graphql&perline=7" alt="Postgres, MySQL, MongoDB, Redis, Linux, Nginx, GraphQL" />
-</p>
-
-## Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-stats.png" alt="GitHub stats" width="680" />
-</p>
-
-## Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/dist/github-snake.svg" />
-  </picture>
-</p>
-
-### Recent
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/onahFran6/clusterdrill/pull/46) in [onahFran6/clusterdrill](https://github.com/onahFran6/clusterdrill)
-<!--END_SECTION:activity-->
-
-I play a lot of chess.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2bbc8a&amp;height=120&amp;section=footer" alt="" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb,mysql&perline=5" alt="PostgreSQL, MongoDB, Redis, DynamoDB, MySQL" />
 </p>
