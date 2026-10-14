@@ -53,9 +53,26 @@ On my own time I write local-first tools in Rust and Go. Search and storage that
 ## Projects
 
 <p align="center">
+  <a href="https://github.com/onahFran6/clusterdrill"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/clusterdrill.png" alt="ClusterDrill: CKAD practice graded by a live cluster" width="420" /></a>
+  <a href="https://github.com/onahFran6/clusterdrill-lab"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/clusterdrill-lab.png" alt="ClusterDrill Lab: disposable Kubernetes lab on AWS" width="420" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/onahFran6/aperture"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/aperture.png" alt="aperture: offline code search" width="420" /></a>
   <a href="https://github.com/onahFran6/atlasDB"><img src="https://raw.githubusercontent.com/onahFran6/onahfran6/main/cards/atlasdb.png" alt="atlasDB: local-first key-value store" width="420" /></a>
 </p>
+
+### [ClusterDrill](https://github.com/onahFran6/clusterdrill)
+
+CKAD practice that grades you against a real cluster, not a quiz.
+
+More than 600 hands-on questions, a timed mock-exam mode and a terminal in the browser. Each question seeds a broken namespace, and `check.sh` grades the live state. FastAPI, ttyd and tmux, shipped as a Helm chart. [Write-up](https://medium.com/@onahfran6/building-clusterdrill-a-ckad-practice-platform-graded-by-the-cluster-itself-45afeb175af5)
+
+### [ClusterDrill Lab](https://github.com/onahFran6/clusterdrill-lab)
+
+A throwaway Kubernetes cluster on AWS, built for practising the way the exam feels.
+
+Terraform creates the VPC and EC2 nodes, and a cloud-agnostic bootstrap installs kubeadm, containerd and Cilium over SSH. Optional noVNC desktop, ClusterDrill and Headlamp. [Write-up](https://medium.com/@onahfran6/building-clusterdrill-lab-a-disposable-exam-realistic-kubernetes-lab-on-aws-c52edf96e5f5)
 
 ### [aperture](https://github.com/onahFran6/aperture)
 
